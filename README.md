@@ -14,7 +14,11 @@ $ git clone https://github.com/kim-le/markdalemgmt-challenge
 $ cd ~/markdalemgmt-challenge
 ```
 
-Run the script:
+Run the desired script:
 ```
 $ node gen_AddressEndpoint.js
+```
+or
+```
+$ node addr_BalanceEndpoint.js
 ```
